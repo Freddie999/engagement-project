@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1060" viewBox="0 0 1240 1060" role="img" aria-labelledby="title desc"><title id="title">04 / Assembly review workspace</title><desc id="desc">Desktop • Restricted reviewer role • Residents cannot set assembly status, priority or official responses.</desc><rect width="100%" height="100%" fill="#f5f6f7"/>
+<text x="36" y="45" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#303740">04 / Assembly review workspace</text>
+<text x="36" y="76" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Desktop • Restricted reviewer role • Residents cannot set assembly status, priority or official responses.</text>
+<rect x="36" y="105" width="1168" height="812" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="58" y="143" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#303740">ASSEMBLY CONNECT / REVIEW</text>
+<text x="58" y="173" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Selected municipality · Demonstration queue</text>
+<rect x="937" y="123" width="240" height="28" rx="14" fill="#edf0f2" stroke="#a8adb3"/>
+<text x="947" y="142" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#303740">Signed in: Assembly reviewer</text>
+<text x="58" y="211" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Status</text>
+<rect x="58" y="222" width="200" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="70" y="249" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">All statuses ▾</text>
+<text x="275" y="211" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Category</text>
+<rect x="275" y="222" width="200" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="287" y="249" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">All categories ▾</text>
+<text x="492" y="211" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Priority</text>
+<rect x="492" y="222" width="200" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="504" y="249" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">All priorities ▾</text>
+<text x="709" y="211" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Sort</text>
+<rect x="709" y="222" width="200" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="721" y="249" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Recent activity ▾</text>
+<rect x="931" y="222" width="249" height="42" rx="5" fill="#fff" stroke="#737b84"/>
+<text x="945" y="249" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Export filtered reports</text>
+<rect x="58" y="287" width="505" height="600" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="76" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#303740">REVIEW QUEUE</text>
+<text x="76" y="347" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#303740">Support counts inform review; they do not set priority.</text>
+<rect x="76" y="370" width="469" height="111" rx="5" fill="#edf0f2" stroke="#303740"/>
+<text x="90" y="398" font-family="Arial, sans-serif" font-size="17" font-weight="600" fill="#303740">#014 · Blocked drain near market</text>
+<text x="90" y="427" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Submitted · 2 days old · 12 supporters</text>
+<text x="90" y="454" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#303740">Impact reported: water on footpath</text>
+<rect x="76" y="499" width="469" height="111" rx="5" fill="#fff" stroke="#a8adb3"/>
+<text x="90" y="527" font-family="Arial, sans-serif" font-size="17" font-weight="600" fill="#303740">#013 · Uncollected waste</text>
+<text x="90" y="556" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Acknowledged · 4 days old · 7 supporters</text>
+<text x="90" y="583" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#303740">Impact reported: access partly blocked</text>
+<rect x="76" y="628" width="469" height="111" rx="5" fill="#fff" stroke="#a8adb3"/>
+<text x="90" y="656" font-family="Arial, sans-serif" font-size="17" font-weight="600" fill="#303740">#012 · Damaged drain cover</text>
+<text x="90" y="685" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Submitted · 1 day old · 1 supporter</text>
+<text x="90" y="712" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#303740">Impact reported: opening on walkway</text>
+<text x="76" y="809" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">One supporter can still identify a serious issue.</text>
+<text x="76" y="833" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Review observed impact, age and supporting evidence.</text>
+<rect x="582" y="287" width="598" height="600" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="602" y="321" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#303740">#014 · Blocked drain near market</text>
+<rect x="602" y="342" width="266" height="105" rx="4" fill="#eceff1" stroke="#a8adb3"/>
+<path d="M614,354 L856,435" fill="none" stroke="#c6cbd0" stroke-width="1"/>
+<path d="M856,354 L614,435" fill="none" stroke="#c6cbd0" stroke-width="1"/>
+<rect x="614" y="379.5" width="242" height="30" rx="0" fill="#eceff1" stroke="#eceff1"/>
+<text x="624" y="400.5" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#303740">Resident evidence</text>
+<rect x="884" y="342" width="276" height="105" rx="0" fill="#edf0f1" stroke="#c6cbd0"/>
+<rect x="904" y="367" width="34" height="27.3" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="904" y="409.2" width="34" height="28.35" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="973" y="367" width="34" height="27.3" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="973" y="409.2" width="34" height="28.35" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="1042" y="367" width="34" height="27.3" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="1042" y="409.2" width="34" height="28.35" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="1111" y="367" width="34" height="27.3" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="1111" y="409.2" width="34" height="28.35" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<path d="M892,386.1 L1152,400.8" fill="none" stroke="#fff" stroke-width="24"/>
+<path d="M1008.2,350 L1033.04,439" fill="none" stroke="#fff" stroke-width="20"/>
+<text x="902" y="429" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#59616a">Sample location</text>
+<circle cx="1010" cy="392" r="17" fill="#303740" stroke="#fff" stroke-width="3"/>
+<text x="1005" y="398" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">1</text>
+<text x="602" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Reported impact: Water overflows onto the footpath.</text>
+<text x="602" y="501" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Observed: date / time · Repeat issue: Yes · Support: 12</text>
+<text x="602" y="541" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Responsible team</text>
+<rect x="602" y="552" width="266" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="614" y="579" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Environmental health ▾</text>
+<text x="884" y="541" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Assembly priority</text>
+<rect x="884" y="552" width="276" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="896" y="579" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Awaiting assessment ▾</text>
+<text x="602" y="615" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Status</text>
+<rect x="602" y="626" width="266" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="614" y="653" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Acknowledged ▾</text>
+<text x="884" y="615" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Priority reason (internal)</text>
+<rect x="884" y="626" width="276" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="896" y="653" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Explain assessment</text>
+<text x="602" y="693" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Public update</text>
+<rect x="602" y="704" width="558" height="65" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="614" y="731" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Explain next action or request more information…</text>
+<text x="602" y="798" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#303740">Resolution: record action taken; attach evidence if available.</text>
+<rect x="602" y="818" width="266" height="42" rx="5" fill="#303740" stroke="#737b84"/>
+<text x="616" y="845" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Save and publish update</text>
+<rect x="884" y="818" width="276" height="42" rx="5" fill="#fff" stroke="#737b84"/>
+<text x="898" y="845" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Refer to another agency</text>
+<text x="58" y="950" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#303740">Every update records its author, date and previous status. Residents can provide follow-up evidence.</text>
+<text x="58" y="979" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Priority choices: High / Normal / Low, following criteria agreed with the participating assembly.</text>
+<path d="M36,995 L1204,995" fill="none" stroke="#c6cbd0" stroke-width="1"/>
+<text x="36" y="1025" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Routing assigns a queue first. “Sent”, “acknowledged” and “resolved” require evidence of the corresponding action.</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1110" viewBox="0 0 960 1110" role="img" aria-labelledby="title desc"><title id="title">02 / Report an issue from a phone</title><desc id="desc">Two screens in one reporting flow • Location can be entered manually • Photo is optional.</desc><rect width="100%" height="100%" fill="#f5f6f7"/>
+<text x="36" y="45" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#303740">02 / Report an issue from a phone</text>
+<text x="36" y="76" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Two screens in one reporting flow • Location can be entered manually • Photo is optional.</text>
+<rect x="36" y="112" width="426" height="850" rx="22" fill="#fff" stroke="#737b84"/>
+<text x="58" y="142" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#303740">ASSEMBLY CONNECT</text>
+<text x="58" y="177" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#303740">Where is the problem?</text>
+<text x="58" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Step 1 of 2 · Location and evidence</text>
+<path d="M54,223 L444,223" fill="none" stroke="#c6cbd0" stroke-width="1"/>
+<text x="58" y="253" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Category</text>
+<rect x="58" y="264" width="382" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="70" y="291" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Blocked drain ▾</text>
+<rect x="58" y="316" width="382" height="42" rx="5" fill="#fff" stroke="#737b84"/>
+<text x="72" y="343" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Use my location</text>
+<rect x="58" y="372" width="382" height="164" rx="0" fill="#edf0f1" stroke="#c6cbd0"/>
+<rect x="78" y="397" width="60.5" height="42.64" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="78" y="476.96000000000004" width="60.5" height="44.28" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="173.5" y="397" width="60.5" height="42.64" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="173.5" y="476.96000000000004" width="60.5" height="44.28" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="269" y="397" width="60.5" height="42.64" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="269" y="476.96000000000004" width="60.5" height="44.28" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="364.5" y="397" width="60.5" height="42.64" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<rect x="364.5" y="476.96000000000004" width="60.5" height="44.28" rx="4" fill="#e2e6e9" stroke="#d3d8dc"/>
+<path d="M66,440.88 L432,463.84000000000003" fill="none" stroke="#fff" stroke-width="24"/>
+<path d="M229.9,380 L264.28,528" fill="none" stroke="#fff" stroke-width="20"/>
+<text x="76" y="518" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#59616a">Schematic map • sample locations</text>
+<circle cx="251" cy="449" r="17" fill="#303740" stroke="#fff" stroke-width="3"/>
+<text x="246" y="455" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">+</text>
+<text x="58" y="559" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Tap the map to move the issue pin.</text>
+<text x="58" y="593" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Address or landmark</text>
+<rect x="58" y="604" width="382" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="70" y="631" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Near the market entrance</text>
+<text x="58" y="667" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Photo (optional)</text>
+<rect x="58" y="680" width="183" height="42" rx="5" fill="#fff" stroke="#737b84"/>
+<text x="72" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Take photo</text>
+<rect x="255" y="680" width="185" height="42" rx="5" fill="#fff" stroke="#737b84"/>
+<text x="269" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Upload photo</text>
+<rect x="58" y="744" width="382" height="125" rx="8" fill="#f3f5f6" stroke="#a8adb3"/>
+<text x="72" y="769" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Could this already be reported?</text>
+<text x="72" y="795" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Blocked drain · 45 m away · Submitted</text>
+<text x="72" y="819" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">View report → support it or add evidence</text>
+<text x="72" y="851" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#303740">Or continue if this is a different issue.</text>
+<rect x="58" y="894" width="382" height="42" rx="5" fill="#303740" stroke="#737b84"/>
+<text x="72" y="921" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Continue to details</text>
+<rect x="498" y="112" width="426" height="850" rx="22" fill="#fff" stroke="#737b84"/>
+<text x="520" y="142" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#303740">ASSEMBLY CONNECT</text>
+<text x="520" y="177" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#303740">Describe the impact</text>
+<text x="520" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Step 2 of 2 · Blocked drain</text>
+<path d="M516,223 L906,223" fill="none" stroke="#c6cbd0" stroke-width="1"/>
+<text x="520" y="253" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">Short title</text>
+<rect x="520" y="264" width="382" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="532" y="291" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Blocked drain near market</text>
+<text x="520" y="327" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">What did you observe?</text>
+<rect x="520" y="338" width="382" height="74" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="532" y="365" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Describe the problem…</text>
+<text x="520" y="446" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Current impact (select one)</text>
+<text x="520" y="480" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">○ Blocked; no flooding observed</text>
+<text x="520" y="513" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">● Water on road or footpath</text>
+<text x="520" y="546" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">○ Water entering a property</text>
+<text x="520" y="579" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">○ I’m not sure</text>
+<text x="520" y="615" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#303740">When did you observe it?</text>
+<rect x="520" y="626" width="382" height="42" rx="8" fill="#fff" stroke="#a8adb3"/>
+<text x="532" y="653" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">Choose date / time</text>
+<text x="520" y="693" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#303740">Has it happened before?</text>
+<text x="520" y="723" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#303740">○ Yes     ○ No     ○ Not sure</text>
+<text x="520" y="766" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Impact answers describe your observation.</text>
+<text x="520" y="788" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">The assembly assigns priority after review.</text>
+<rect x="520" y="834" width="382" height="42" rx="5" fill="#303740" stroke="#737b84"/>
+<text x="534" y="861" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Review report</text>
+<rect x="520" y="892" width="382" height="42" rx="5" fill="#fff" stroke="#737b84"/>
+<text x="534" y="919" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#303740">Back to location</text>
+<text x="36" y="996" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Validation: keep entered data; explain missing category, location or required answers beside the field.</text>
+<path d="M36,1045 L924,1045" fill="none" stroke="#c6cbd0" stroke-width="1"/>
+<text x="36" y="1075" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#303740">Location permission can be declined. The map pin represents the issue, not automatically the reporter’s position.</text>
+</svg>

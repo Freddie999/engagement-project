@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assembly Connect — Wireframes</title>
+    <style>
+      * { box-sizing: border-box; }
+      body { margin: 0; color: #303740; background: #f5f6f7; font: 17px/1.6 system-ui, sans-serif; }
+      header, main, footer { max-width: 1280px; margin: auto; padding: 28px; }
+      header { padding-bottom: 0; }
+      h1 { margin-bottom: 8px; line-height: 1.2; }
+      p { max-width: 850px; }
+      nav { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0; }
+      a { color: #194b77; text-underline-offset: 4px; }
+      nav a { padding: 10px 16px; border: 1px solid #9da6ae; border-radius: 5px; background: white; }
+      a:focus-visible { outline: 3px solid #194b77; outline-offset: 4px; }
+      section { margin-bottom: 48px; scroll-margin-top: 20px; }
+      img { display: block; width: 100%; height: auto; border: 1px solid #c6cbd0; }
+      .notice { padding: 14px 18px; background: #e6eaed; border-left: 4px solid #59616a; }
+      footer { border-top: 1px solid #c6cbd0; }
+      @media (width <= 600px) { header, main, footer { padding: 16px; } h1 { font-size: 28px; } }
+    </style>
+  </head>
+  <body>
+    <header>
+      <p>INVITING PARTICIPATION / INITIAL WIREFRAMES</p>
+      <h1>Assembly Connect</h1>
+      <p>A working concept for residents to report neighborhood problems, support shared concerns, and follow updates from their local assembly.</p>
+      <p class="notice">These are layout sketches, not a functioning reporting service. All reports are examples. The municipality and agency partnership are still to be selected.</p>
+      <nav aria-label="Wireframe screens">
+        <a href="#map">1. Browse reports</a>
+        <a href="#report">2. Report from a phone</a>
+        <a href="#follow">3. Submit and follow</a>
+        <a href="#review">4. Assembly review</a>
+      </nav>
+      <p><a href="README.md">Read the interaction notes and PR-ready image links</a></p>
+    </header>
+    <main>
+      <section id="map">
+        <h2>1. Browse reports and inspect an issue</h2>
+        <p>Search or filter a map and list. Open a report to inspect its evidence, support it, contribute an observation, or follow updates.</p>
+        <a href="01-resident-map.svg"><img src="01-resident-map.svg" width="1240" height="1010" alt="Desktop wireframe: search and filters above a map, status legend, and issue details panel with a photo, reported impact, responsible team, priority, support, observation and follow buttons."></a>
+        <p><a href="01-resident-map.svg">Open full-size SVG</a> · <a href="01-resident-map.png">PNG for your pull request</a></p>
+      </section>
+      <section id="report">
+        <h2>2. Report a problem from a phone</h2>
+        <p>Confirm the issue location and check for an existing report. Add a photo if useful, then answer short questions about observed impact.</p>
+        <a href="02-mobile-report.svg"><img src="02-mobile-report.svg" width="960" height="1110" alt="Two mobile wireframes: first captures category, editable map location, landmark, optional camera or upload photo, and a nearby duplicate suggestion; second captures title, description, observed impact, date and recurrence."></a>
+        <p><a href="02-mobile-report.svg">Open full-size SVG</a> · <a href="02-mobile-report.png">PNG for your pull request</a></p>
+      </section>
+      <section id="follow">
+        <h2>3. Review, submit and follow progress</h2>
+        <p>Check the report before submitting. After a successful save, receive a report reference and a link to its history. Later updates identify who recorded them and when.</p>
+        <a href="03-submission-follow-up.svg"><img src="03-submission-follow-up.svg" width="960" height="1130" alt="Two mobile wireframes: a report review with photo, location, impact, receiving team and prototype notice; and a saved-report confirmation with map link, copy link, pending review timeline, follow and additional observation actions."></a>
+        <p><a href="03-submission-follow-up.svg">Open full-size SVG</a> · <a href="03-submission-follow-up.png">PNG for your pull request</a></p>
+      </section>
+      <section id="review">
+        <h2>4. Review reports as assembly staff</h2>
+        <p>Use a restricted queue to review evidence, assign a team and priority, and publish an update. Community support does not automatically determine priority.</p>
+        <a href="04-assembly-review.svg"><img src="04-assembly-review.svg" width="1240" height="1060" alt="Assembly reviewer wireframe with queue filters, dated reports and supporter counts, selected evidence and map, team assignment, priority and reason, status, public response, save and referral actions."></a>
+        <p><a href="04-assembly-review.svg">Open full-size SVG</a> · <a href="04-assembly-review.png">PNG for your pull request</a></p>
+      </section>
+    </main>
+    <footer><p>Prepared November 4, 2026. Open full-size images to inspect the details. Colors, typography, account flow and final wording will be refined during implementation.</p></footer>
+  </body>
+</html>
